@@ -5,7 +5,32 @@ h1 {
     font-size: 40px;
     font-weight: 800;
 }
+
+h2 {
+    background-color: black;
+    color: orange;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800; 
+}
+
+p {
+    background-color: orange;
+    color: black;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 400;
+}
+
 ul {
+    background-color: orange;
+    color: black;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+ol {
     background-color: orange;
     color: black;
     text-align: left;
